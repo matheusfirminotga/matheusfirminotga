@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Matheus Firmino
-- 🌱 Atualmente estou aprendendo Dart
+- 🌱 Atualmente estou aprendendo Flutter & Dart
 
 <!---
 matheusfirminotga/matheusfirminotga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
